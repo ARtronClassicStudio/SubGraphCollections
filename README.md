@@ -1,4 +1,4 @@
-# Here I will sometimes post useful nodes that will complement the functionality for Shader Graph
+# Here I will sometimes post useful nodes that will complement the functionality for Shader Graph (Unity)
 
 # SpiderWeb [Download](SpiderWeb.shadersubgraph):
 path node: ``Procedural/Shape/SpiderWeb``
